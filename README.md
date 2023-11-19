@@ -1,5 +1,5 @@
-# The-Last-Of-Us
-Projeto guiado <strong>DEVEMDOBRO</strong>, da semana <i><strong>Do 0 Ao Programador Contratado</strong></i>.<br>
+# The Last Of Us
+Projeto guiado pela <strong>DEVEMDOBRO</strong>, no evento <i><strong>Do 0 Ao Programador Contratado</strong></i>.<br>
 Project theme: <strong>The Last Of Us</strong>, the hit HBO Max series.<br>
 
 Languages used:<br><br>
